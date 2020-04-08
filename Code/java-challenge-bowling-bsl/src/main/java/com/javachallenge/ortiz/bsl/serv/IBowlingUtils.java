@@ -10,6 +10,8 @@ public interface IBowlingUtils {
 
 	List<String> getData(File bowlingFile) throws FileNotFoundException;
 
+	void verifyData(List<String> data, String delimiter) throws Exception;
+
 	boolean verifyMove(String[] move);
 
 }
