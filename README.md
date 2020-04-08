@@ -1,2 +1,0 @@
-# jobsitychallenge
-Job Sity Challenge
